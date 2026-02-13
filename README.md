@@ -26,7 +26,7 @@
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps
+   github.com/itzsahil-prog/Ai-Blog-to-Podcast-Agent
    cd ai_agent_tutorials/ai_blog_to_podcast_agent
    ```
 

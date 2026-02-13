@@ -38,7 +38,7 @@
 
 1. Start the Streamlit app:
    ```bash
-   [[streamlit run blog_to_podcast_agent.py](http://ai-blog-to-podcast-agent-33s6zempp58yvhv6vzdstq.streamlit.app/)]
+   [https://ai-blog-to-podcast-agent.streamlit.app/]
    ```
 
 2. In the app interface:
